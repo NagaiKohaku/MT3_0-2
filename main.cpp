@@ -1,6 +1,6 @@
 #include <Novice.h>
 
-const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_0-2 3次元ベクトルの表示(行列)";
+const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_0-2 4x4行列の表示";
 
 //4x4行列
 struct Matrix4x4 {
